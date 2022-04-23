@@ -1,5 +1,11 @@
 # MS1
 Milestone 1 Project
+
+## Defects
+I used GitHub issues to track debug https://github.com/pszoet/MS1/issues
+
+
+
 ## Deployment
 1. click the setting link in the menu of the repository 
 ![image](https://user-images.githubusercontent.com/63070414/164948915-4e6806b8-f3e5-47a5-9d9f-4d62489a73ef.png)
