@@ -2,6 +2,7 @@
 html{
     scroll-behavior: smooth;
 }
+/*css gradient.io*/
 body{
     background: rgb(0,0,0);
     background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(107,9,121,0.9023984593837535) 45%, rgba(0,0,0,1) 100%);
@@ -24,7 +25,7 @@ button{
 button:hover{
     cursor: pointer;
 }
-
+/*Neon effects taken and partially adjusted from css-tricks.com*/
 .border{
     box-shadow: 0 0 7px #fff,
     0 0 10px #fff,
@@ -70,6 +71,7 @@ h1{
       0 0 102px #f09,
       0 0 151px #f09;
 }
+/*Neon effects taken and partially adjusted from css-tricks.com*/
 .nav-link:hover{
     cursor: pointer;
     text-decoration: none;
@@ -157,7 +159,7 @@ h1{
         text-shadow: none;
     }    
   }
-
+/*Neon effects taken and partially adjusted from css-tricks.com*/
 /*Card styling*/
 .card{
     box-shadow: 0 0 7px #fff,
@@ -187,6 +189,7 @@ h1{
     justify-content: center;
     align-items: center;  
   }
+  /*Neon effects taken and partially adjusted from css-tricks.com*/
 .errorText {
     font-size: 6.2rem;  
     text-align: center;
@@ -227,3 +230,5 @@ h1{
         display: none;
     }
 }
+
+/*Neon effects taken and partially adjusted from css-tricks.com*/
