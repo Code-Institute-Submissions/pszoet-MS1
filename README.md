@@ -15,3 +15,13 @@ I used GitHub issues to track debug https://github.com/pszoet/MS1/issues
 ![image](https://user-images.githubusercontent.com/63070414/164948975-95df3c38-b487-43cf-9595-1caab4f6915e.png)
 4. hit blue bar with text when succesful 
 ![image](https://user-images.githubusercontent.com/63070414/164948981-5ca4662b-5ac7-45c7-a687-ee08e15b3d49.png)
+
+
+##Project Idea
+I wanted to bring back some old arcade hall vibes as I remembered them from my youth, a bit chaotic, too much color and a lot of lights.
+added a small section for a few prices you can win with the costs of tickets, and of course opening times.
+
+
+
+
+##
