@@ -220,6 +220,29 @@ h1{
         0 0 151px #bc13fe;   
   }
 
+  /*Schedule page*/
+  .form-label{
+    color: #fff;
+    font-size: 1.2rem;
+}
+.form-text{
+    color: #fff;
+}
+.form-check-label{
+    color: #fff;
+}
+/*Neon effects taken and partially adjusted from css-tricks.com*/
+.form-border{
+  border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+            0 0 .2rem #fff,
+            0 0 2rem #bc13fe,
+            0 0 0.8rem #bc13fe,
+            0 0 2.8rem #bc13fe,
+            inset 0 0 1.3rem #bc13fe;
+}
   @media only screen and (min-width: 0px) and (max-width: 600px) {
     #desk-nav{
         display: none;
