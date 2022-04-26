@@ -17,11 +17,30 @@ I used GitHub issues to track debug https://github.com/pszoet/MS1/issues
 ![image](https://user-images.githubusercontent.com/63070414/164948981-5ca4662b-5ac7-45c7-a687-ee08e15b3d49.png)
 
 
-##Project Idea
+## Project Idea
 I wanted to bring back some old arcade hall vibes as I remembered them from my youth, a bit chaotic, too much color and a lot of lights.
 added a small section for a few prices you can win with the costs of tickets, and of course opening times.
 
 
 
 
-##
+## Dev tool testing results
+![image](https://user-images.githubusercontent.com/63070414/165349040-e07dc139-9f64-4d03-a1aa-4ed82929a4ff.png)
+
+due to larger img files the score was lower
+
+
+## Wireframe desktop
+![image](https://user-images.githubusercontent.com/63070414/165349538-e862e0df-f94e-4abf-93d3-8e094dcc5ecd.png)
+![image](https://user-images.githubusercontent.com/63070414/165349764-e339cb10-519a-4091-8699-fa43244f5595.png)
+![image](https://user-images.githubusercontent.com/63070414/165349882-5bead700-a5d7-46ac-98ab-8296dc564dfb.png)
+
+
+## Wirefram Mobile
+![image](https://user-images.githubusercontent.com/63070414/165350137-33b4575c-904e-44f1-a10c-4bd3bcd5e64d.png)
+![image](https://user-images.githubusercontent.com/63070414/165350262-12986cdb-1629-48f0-8979-559ff7144074.png)
+![image](https://user-images.githubusercontent.com/63070414/165350382-be2a0634-8bd1-43a9-bac5-08b0386a6724.png)
+
+
+
+
